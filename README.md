@@ -8,5 +8,6 @@ To be able to use this application, you need to clone the repository into your l
 Then run `npm install` to get all of the dependencies needed. Lastly, run `npm start` to start the server and use Insomnia Core to test all the GET,POST,PUT,DELETE API routes.
 
 ## Screenshot
-
+![alt text](insomnia.png)
 ## Walkthrough video
+https://watch.screencastify.com/v/DGuZJ2DcGHxXqkj9ZP9x
